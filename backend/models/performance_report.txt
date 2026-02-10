@@ -1,0 +1,7 @@
+GuardianShield Model Performance Report
+Samples: 10000
+Accuracy: 0.9985
+Precision: 0.9802
+Recall: 0.9900
+F1: 0.9851
+ROC-AUC: 0.9999
